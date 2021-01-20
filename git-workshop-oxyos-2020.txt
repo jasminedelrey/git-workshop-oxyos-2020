@@ -10,3 +10,5 @@ beebaadoooo
 This is a merge conflict. Boo!
 
 Boop boop beep bop boop
+
+This change goes in the new branch.
